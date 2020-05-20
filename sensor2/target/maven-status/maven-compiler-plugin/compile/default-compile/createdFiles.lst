@@ -1,0 +1,17 @@
+ru\ivanov\sensor2\emulator\AStrategy.class
+ru\ivanov\sensor2\interfaces\sensors.class
+ru\ivanov\sensor2\Stub.class
+ru\ivanov\sensor2\ApplicationConfig.class
+ru\ivanov\sensor2\SensorsController.class
+ru\ivanov\sensor2\EnrichDataProcessor.class
+ru\ivanov\sensor2\SensorsRoutes.class
+ru\ivanov\sensor2\emulator\SensorEmulationRuntime.class
+ru\ivanov\sensor2\SensorsJSONSchema.class
+ru\ivanov\sensor2\emulator\DStrategy.class
+ru\ivanov\sensor2\emulator\FakeSensor2.class
+ru\ivanov\sensor2\emulator\FakeSensor2$1.class
+ru\ivanov\sensor2\App.class
+ru\ivanov\sensor2\interfaces\SensorRuntime.class
+ru\ivanov\sensor2\SensorsRuntimeProcessor.class
+ru\ivanov\sensor2\emulator\EmulationStrategy.class
+ru\ivanov\sensor2\EnrichDataProcessor$1.class
